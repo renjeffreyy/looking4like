@@ -18,7 +18,6 @@ A dating app that will only match you with myself
 ## stack
 
 - bun
-- vite
 - hono
 - remix
 - mySQL
